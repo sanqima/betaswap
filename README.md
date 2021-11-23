@@ -67,7 +67,7 @@ linked from the [v1.0.0 release](https://github.com/Uniswap/uniswap-interface/re
 
 ## Feeto
 
-**Feeto 0.015% to LP** 
+**Feeto 0.15% to LP** 
 
 
 
